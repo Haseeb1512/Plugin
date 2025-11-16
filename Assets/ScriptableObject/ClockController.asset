@@ -9,7 +9,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b0ad40454d5b14c02a109349874baa30, type: 3}
-  m_Name: SystemController
-  m_EditorClassIdentifier: Assembly-CSharp::SystemController
-  _clockController: {fileID: 11400000, guid: 9cbe5dc3a683246749245cc0c07fbdfd, type: 2}
+  m_Script: {fileID: 11500000, guid: a8b2fc2f837b44d4c984a6b8a2af1285, type: 3}
+  m_Name: ClockController
+  m_EditorClassIdentifier: Assembly-CSharp::ClockController
